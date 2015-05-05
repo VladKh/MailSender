@@ -1,3 +1,5 @@
 [SMTP]
+server :
+port : 25
 login: 
 password: 
